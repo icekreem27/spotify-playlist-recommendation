@@ -1,0 +1,16 @@
+
+How to Find New Songs on Spotify Using Machine Learning
+
+https://medium.com/geekculture/how-to-find-new-songs-on-spotify-using-machine-learning-d99bd8855a18
+
+
+goal:
+-Creating a data pipeline to construct a scalable dataset of nearly 10,000 songs to use as song recommendations by implementing Spotify’s API to gather the first 50 songs of the official Spotify accounts’ 1300+ playlists
+
+-Scraping the user’s top songs to base the recommender on using Spotify’s API
+
+-Exploring user streaming history to understand music preferences
+
+-Developing a classification algorithm with 99.5% accuracy to use to recommend songs
+
+-Saving recommended songs from the algorithm to a Spotify playlist within the user’s account
