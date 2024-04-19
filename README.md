@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Spotify Playlist Recommendation System" />
-
-  &#xa0;
-
-</div>
-
 <h1 align="center">Spotify Playlist Recommendation System</h1>
 
 <!-- Status -->
@@ -35,8 +28,8 @@ The goal of this project was to create a system that could generate personalised
 ## :sparkles: Features ##
 
 :heavy_check_mark: Personalised playlist recommendations based on user's existing playlists;\
-:heavy_check_mark: Efficient handling and pre-processing of large song dataset;
-:heavy_check_mark: Utilisation of vector similarities to identify matching songs;\
+:heavy_check_mark: Efficient handling and pre-processing of large song dataset;\
+:heavy_check_mark: Utilisation of vector similarities to identify matching songs;
 
 
 ## :rocket: Technologies ##
@@ -52,7 +45,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Python](https://python.org/) and [Jupyter Notebook](https://jupyter.org/) installed.
+Before starting, you need to have [Python](https://python.org/) and [Jupyter Notebook](https://jupyter.org/) installed.
 
 ## :checkered_flag: Starting ##
 
